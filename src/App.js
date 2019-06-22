@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hi! My name is Lina Zhou :D
         </a>
       </header>
     </div>
